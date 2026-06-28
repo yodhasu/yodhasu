@@ -1,10 +1,31 @@
-- 👋 Hi, I’m @yodhasu
-- 👀 I’m interested in AI, Machine Learning, Deep Learning
-- 🌱 I’m currently learning AI, Machine Learning, Deep Learning
-- 📫 You can reach me via email and social media
-- ⚡ Fun fact: I got into CS just because I want to bring my waifu to life (yes I'm a weeb)
+# Hi, I’m Yodha 👋
 
-<!---
-yodhasu/yodhasu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Computer Science undergraduate building web systems, AI experiments, and creative tools.
+
+I work across full-stack development, AI/ML research, backend workflows, and expressive agent interfaces. Most of my projects come from a simple pattern: I get curious about something, overbuild it, document the damage, and somehow turn it into a usable system.
+
+## Currently interested in
+
+* AI/ML and language model behavior
+* Persona steering and activation-space intervention
+* Web systems, dashboards, and backend/API workflows
+* Local AI agents, Live2D interfaces, and creative AI tooling
+
+## Featured work
+
+* **ReINE** — residual activation-space intervention for persona steering in frozen language models.
+* **Pasraman LMS** — learning management system prototype for class materials, authentication, and role-aware workflows.
+* **Enlive** — local companion AI runtime experiment with Live2D/MCP-style expression control.
+* **DrowsyGuard / ML projects** — computer vision and machine learning experiments around detection, classification, and practical deployment.
+
+## Links
+
+* Portfolio: https://yodha-workspace.vercel.app/
+* GitHub: https://github.com/yodhasu
+* Email: available through my portfolio/contact links
+
+## Fun fact
+
+I got into Computer Science because I wanted to bring my waifu to life.
+
+Somehow that turned into AI research, web systems, and a suspicious amount of overengineering.
